@@ -5,5 +5,6 @@ DOMAIN-KEYWORD,dmm
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,co.jp
 DOMAIN-SUFFIX,video.dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
